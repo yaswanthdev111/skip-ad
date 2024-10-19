@@ -1,0 +1,12 @@
+timing events:
+Timing Events :
+    --it allows execution of code at specified time intervals.
+    --These time intervals are called timing events.
+The two key methods to use with JavaScript are:
+1.setTimeout(function, milliseconds)--it delays the code execution for a particular of time. 
+2.setInterval(function, milliseconds)--it executes repeatedly as a loop with a time interval.
+
+To Stop The Execution--to stop the execution we can assign timing function rto a variable.
+1.clearTimeout()-- method stops the execution of the function specified in setTimeout().
+2.clearInterval()-- method stops the executions of the function specified in the setInterval() method.
+
